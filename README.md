@@ -1,4 +1,4 @@
-# Smokey sssssss
+# Smokey  sssssss
 Smokey is an alternative UI test tools that wraps Selenium.
 
 ## Features
